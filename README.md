@@ -2,6 +2,7 @@
 SmartStudy is a cross-platform educational app built with SwiftUI for iOS. It helps students manage their academic life through Pomodoro timers, class/assignment/exam tracking, calendars, and progress visualization.
 
 ✨ Features
+
 ✅ Login / Sign Up (with email input)
 
 📅 Calendar View with all tasks shown
