@@ -31,8 +31,6 @@ Clean Folder Architecture
 
 📂 Folder Structure
 bash
-نسخ
-تحرير
 SmartStudy/
 ├── Models/
 │   ├── CoreData/           # Core Data model files
@@ -49,3 +47,4 @@ SmartStudy/
 │   ├── UtilityFunctions.swift
 ├── ContentView.swift       # Tab navigation
 ├── SmartStudyApp.swift     # App entry point
+
