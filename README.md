@@ -3,24 +3,36 @@ SmartStudy is a cross-platform educational app built with SwiftUI for iOS. It he
 
 ✨ Features
 ✅ Login / Sign Up (with email input)
+
 📅 Calendar View with all tasks shown
+
 🏫 Class Tracking with room/building info
+
 📝 Assignment Management with deadlines
+
 🧪 Exam Scheduling with seat/building/time
+
 ⏲️ Pomodoro Timer for focused study sessions
+
 📈 Progress Charts (Line, Bar, Pie)
+
 🧠 Auto-sync tasks to calendar and progress view
+
 💾 Core Data + SQLite persistent storage
 
 🛠 Built With
 SwiftUI (MVVM Design)
-Core Data (SQLite-backed)
-Charts Framework (iOS 16+)
-Clean Folder Architecture
 
+Core Data (SQLite-backed)
+
+Charts Framework (iOS 16+)
+
+Clean Folder Architecture
 
 📂 Folder Structure
 bash
+نسخ
+تحرير
 SmartStudy/
 ├── Models/
 │   ├── CoreData/           # Core Data model files
